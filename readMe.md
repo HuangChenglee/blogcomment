@@ -1,1 +1,2 @@
-### Hi, welcome to my blog!
+### Hi, welcome to [my blog](https://skylooker.gitee.io/)!
+
